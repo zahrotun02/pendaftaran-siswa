@@ -1,0 +1,8 @@
+.body {
+    background-color:powderblue;
+    border: 10px solid skyblue;
+    margin: 10px 10rem;
+    padding: 25px 20px;
+    position: relative;
+    top: 1cm;
+}
